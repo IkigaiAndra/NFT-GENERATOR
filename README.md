@@ -6,4 +6,6 @@ NFT Generator in Python📌 OverviewThis Python-based NFT Generator allows you t
 🌐 Blockchain Ready: Can be integrated with Ethereum or Polygon smart contracts.# NFT-GENERATOR
 REQUIREMENT:
 pip install pillow
+
+
 python nft_generator.py
