@@ -7,5 +7,5 @@ NFT Generator in Python📌 OverviewThis Python-based NFT Generator allows you t
 REQUIREMENT:
 pip install pillow
 
-
+RUN THE FILE:
 python nft_generator.py
